@@ -1,4 +1,4 @@
-# [TELEGRAM BOT]
+# TELEGRAM BOT
 
 > The compiled script is just a compilation of numerous functions this bot can perform. Have a go!
 
